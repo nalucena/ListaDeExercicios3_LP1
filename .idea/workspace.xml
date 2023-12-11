@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3797c95d-2250-4d70-ad17-d5cbecebc6a6" name="Changes" comment="Adicionando a lista 3 de exercícios - Funções">
+    <list default="true" id="3797c95d-2250-4d70-ad17-d5cbecebc6a6" name="Changes" comment="Update Questão 2 da lista">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,8 @@
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.Question3.executor": "Run",
+    "Application.Question4.executor": "Run",
+    "Application.Question5.executor": "Run",
     "Application.extra.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question2">
+  <component name="RunManager" selected="Application.Question5">
     <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question1" />
       <module name="ListaDeExercicios3_LP1" />
@@ -65,8 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question3" />
+    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question4" />
+      <module name="ListaDeExercicios3_LP1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question5" />
       <module name="ListaDeExercicios3_LP1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question5" />
+        <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Question2" />
         <item itemvalue="Application.extra" />
         <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.Question3" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702234130076</updated>
-      <workItem from="1702234131174" duration="6153000" />
+      <workItem from="1702234131174" duration="9058000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionando a lista 3 de exercícios - Funções">
       <option name="closed" value="true" />
@@ -106,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702242861739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Questão 2 da lista">
+      <option name="closed" value="true" />
+      <created>1702243750375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702243750375</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando a lista 3 de exercícios - Funções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a lista 3 de exercícios - Funções" />
+    <MESSAGE value="Update Questão 2 da lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Questão 2 da lista" />
   </component>
 </project>
